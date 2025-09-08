@@ -1,2 +1,2 @@
 # pki-x
-Next gen security certificate lifecycle management
+The scrying glass for certificate lifecycle management
